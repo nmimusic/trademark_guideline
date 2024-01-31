@@ -1,67 +1,56 @@
-# Guidelines for NJB Works
+# NJB Trademark Guidelines
 -----
 ## Article 1
-These regulations are guidelines related to software and media materials (hereinafter referred to as contents) provided by Radio New Japan Broadcasting Club (hereinafter referred to as NJB).
+These rules are the guidelines for Naka-mura Jukebox (formerly Radio New Japan Broadcasting Club. Hereinafter NJB) guidelines relating to trademarks.
 
 ## Article 2
-The purpose of these Rules is to establish standards for permitting and denying the use of content provided by NJB and to avoid confusion.
+The purpose of these rules is to set out the criteria for granting and denying use of the NJB's trade marks and logos and to avoid confusion. The main trademarks are listed below, including logos.
 
-## Article 3.
-Users agree to these Rules by listening to, downloading, and using the following Content. Use of Content not in accordance with the Guidelines is not permitted.
+* NAKA-MURA JUKEBOX
+* 中村ジュークボックス (in Japanese)
+* NJB Records
+* Ruritania
+* Kamuriki Linux
+* Univalent Versatile Environment
+* Moevalent
+* Nako
+* Alis Linux/GNU/X
+* DebISO
 
-(i) NJB Media Materials
+## Article 3
+The use of trademarks without agreement to the content of the guidelines is not permitted.
 
-(ii) Programmes broadcast on NJB
+## Article 4
+For the (i) to (iii) in article 3, the use of a trade mark for non-commercial use is only permitted if the following conditions are met The definition of non-commercial use is found in article 6.
 
-(iii) Kamuriki Linux media assets: Logos, background images, etc.
+(i) References to the use of the trade mark are to the respective products which have not been modified.<br>
+(ii) No infringement of the rights of third parties is made.<br>
+(iii) It does not include any expression intended to disseminate particular ideas and beliefs.<br>
+(iv) Does not indicate that it is endorsed, supported or affiliated with the NJB unless the NJB endorses and accepts responsibility for it.<br>
+(v) It does not register trademarks, designs or make any other exclusive use.<br>
+(vi) It is clearly marked as a derivative work or is easily identifiable as such.<br>
 
-(iv) Univalent GNU/Linux media assets: Logos, background images, etc.
+## Article 5
+For (iii) in article 3, when distributing unofficial binaries, only a version with the trademark removed is permitted, unless the NJB approves and accepts liability.
 
-(v) Birdland and Ruritania's works
+## Article 6
+Non-Commercial use is defined as production and sale by individuals or amateur groups. Consideration for distribution of the Work may be received. The maximum amount of consideration is not defined.
 
-## Article 4.
-The use of content that meets the following conditions for non-commercial use is permitted. The definition of non-commercial use is provided in Article 5.
+## Article 7
+Explicit permission for use by the NJB is required for uses other than those specified in Articles 4 and 5. Examples are provided below.
+(I) All commercial uses.<br>
+(ii) Goods bearing the logo of NJB and each label, such as T-shirts, stickers, etc.<br>
+(iii) all services related to above (I) and (ii).<br>
 
-(i) What is mentioned is each content.
-
-(ii) not infringe on the rights of third parties.
-
-(iii) Expressions for the purpose of transmitting specific thoughts and beliefs shall not be included.
-
-(iv) Has not shown approval, support, or affiliation with NJB unless NJB has approved and taken responsibility for it.
-
-(v) Do not register trademarks, designs, or make any other exclusive use.
-
-(vi) Clearly state that it is a derivative work, or make it easy to recognize that it is a derivative work.
-
-## Article 5.
-Non-commercial use is defined as the production and sale of works by individuals or groups of people. Consideration may be received for the distribution of works. The maximum amount of consideration is not defined.
-
-## Article 6.
-Explicit authorisation by the NJB is required for uses other than those referred to in Article 4. These include the followings:
-
-(i) All commercial use.
-
-(ii) Products that use the logo of NJB and each brand, such as T-shirts and stickers.
-
-(iii) all services related to (I) and (ii) above.
-
-## Article 7.
-As a general rule, the following uses are not permitted.
-
-(i) Use as a company name.
-
-(ii) Use of domain names for commercial purposes.
-
-(iii) Use for the purpose of disparaging NJB and brands, except for caricatures.
-
-## Article 8.
-If you have any questions, please contact us at knjbfm[at]gmail.com
+## Article 8
+In principle, the following uses are not permitted.<br>
+(I) Use as a company name.<br>
+(ii) Use in a commercial domain name.<br>
+(iii) Use to disparage the NJB or the labels, except for caricatures.<br>
 
 -----
 
-Established on 17 June 2023
-
-Added of concrete examples of Article 3 (iii) and (iv) on 18 June 2023
-
-Changed the E-mail address on 17 July 2023
+17 June 2023 Established
+18 June 2023 Added of concrete examples of (iii) and (iv) in article 3
+17 July 2023 Corrected some expressions, changed e-mail addresses
+1 February 2024 Purpose and organisation name changed
