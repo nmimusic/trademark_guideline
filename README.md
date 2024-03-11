@@ -38,6 +38,7 @@ Non-Commercial use is defined as production and sale by individuals or amateur g
 
 ## Article 7
 Explicit permission for use by the NJB is required for uses other than those specified in Articles 4 and 5. Examples are provided below.
+
 (I) All commercial uses.<br>
 (ii) Goods bearing the logo of NJB and each label, such as T-shirts, stickers, etc.<br>
 (iii) all services related to above (I) and (ii).<br>
