@@ -51,7 +51,7 @@ In principle, the following uses are not permitted.<br>
 
 -----
 
-17 June 2023 Established
-18 June 2023 Added of concrete examples of (iii) and (iv) in article 3
-17 July 2023 Corrected some expressions, changed e-mail addresses
-1 February 2024 Purpose and organisation name changed
+17 June 2023 Established<br>
+18 June 2023 Added of concrete examples of (iii) and (iv) in article 3<br>
+17 July 2023 Corrected some expressions, changed e-mail addresses<br>
+1 February 2024 Purpose and organisation name changed<br>
