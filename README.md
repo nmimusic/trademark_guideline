@@ -1,4 +1,4 @@
-# NJB Trademark Guidelines
+# NMI Trademark Guidelines
 -----
 ## Article 1
 These rules are the guidelines for Naka-mura Jukebox (formerly Radio New Japan Broadcasting Club. Hereinafter NJB) guidelines relating to trademarks.
