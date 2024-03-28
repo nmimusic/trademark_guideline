@@ -1,10 +1,26 @@
 # NMI Trademark Guidelines
 -----
+(C) 2024 Nakamura Musical Industries Dojin Club
+
+17 June 2023 Established
+
+18 June 2023 Added of concrete examples of (iii) and (iv) in article 3
+
+17 July 2023 Corrected some expressions, changed e-mail addresses
+
+1 February 2024 Purpose and organisation name changed
+
+25 March 2024 Organisation name changed
+
+28 March 2024 Correction of errors in abbreviations / Move revision on top
+
+-----
+
 ## Article 1
-These rules are the guidelines for Naka-mura Jukebox (formerly Radio New Japan Broadcasting Club. Hereinafter NJB) guidelines relating to trademarks.
+These rules are the guidelines for Naka-mura Jukebox (formerly Radio New Japan Broadcasting Club. Hereinafter NMI) guidelines relating to trademarks.
 
 ## Article 2
-The purpose of these rules is to set out the criteria for granting and denying use of the NJB's trade marks and logos and to avoid confusion. The main trademarks are listed below, including logos.
+The purpose of these rules is to set out the criteria for granting and denying use of the NMI's trade marks and logos and to avoid confusion. The main trademarks are listed below, including logos.
 
 * NAKAMURA MUSICAL INDUSTRIES
 * NMI
@@ -32,24 +48,24 @@ For the (i) to (iii) in article 3, the use of a trade mark for non-commercial us
 
 (iii) It does not include any expression intended to disseminate particular ideas and beliefs.
 
-(iv) Does not indicate that it is endorsed, supported or affiliated with the NJB unless the NJB endorses and accepts responsibility for it.
+(iv) Does not indicate that it is endorsed, supported or affiliated with the NMI unless the NMI endorses and accepts responsibility for it.
 
 (v) It does not register trademarks, designs or make any other exclusive use.
 
 (vi) It is clearly marked as a derivative work or is easily identifiable as such.
 
 ## Article 5
-For (iii) in article 3, when distributing unofficial binaries, only a version with the trademark removed is permitted, unless the NJB approves and accepts liability.
+For (iii) in article 3, when distributing unofficial binaries, only a version with the trademark removed is permitted, unless the NMI approves and accepts liability.
 
 ## Article 6
 Non-Commercial use is defined as production and sale by individuals or amateur groups. Consideration for distribution of the Work may be received. The maximum amount of consideration is not defined.
 
 ## Article 7
-Explicit permission for use by the NJB is required for uses other than those specified in Articles 4 and 5. Examples are provided below.
+Explicit permission for use by the NMI is required for uses other than those specified in Articles 4 and 5. Examples are provided below.
 
 (I) All commercial uses.
 
-(ii) Goods bearing the logo of NJB and each label, such as T-shirts, stickers, etc.
+(ii) Goods bearing the logo of NMI and each label, such as T-shirts, stickers, etc.
 
 (iii) all services related to above (I) and (ii).
 
@@ -60,16 +76,5 @@ In principle, the following uses are not permitted.
 
 (ii) Use in a commercial domain name.
 
-(iii) Use to disparage the NJB or the labels, except for caricatures.
+(iii) Use to disparage the NMI or the labels, except for caricatures.
 
------
-
-17 June 2023 Established
-
-18 June 2023 Added of concrete examples of (iii) and (iv) in article 3
-
-17 July 2023 Corrected some expressions, changed e-mail addresses
-
-1 February 2024 Purpose and organisation name changed
-
-25 March 2024 Organisation name changed
