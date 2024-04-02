@@ -18,7 +18,7 @@
 
 
 ## Article 1
-These rules are the guidelines for Nakamura Musical Industries Dojin Club (formerly Naka-mrua Jukebox and Radio New Japan Broadcasting Club. Hereinafter NMI) guidelines relating to trademarks.
+These rules are the guidelines for Nakamura Musical Industries Dojin Club (formerly Naka-mura Jukebox and Radio New Japan Broadcasting Club. Hereinafter NMI) guidelines relating to trademarks.
 
 ## Article 2
 The purpose of these rules is to set out the criteria for granting and denying use of the NMI's trade marks and logos and to avoid confusion. The main trademarks are listed below, including logos.
