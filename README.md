@@ -14,6 +14,8 @@
 
 28 March 2024 Correction of errors in abbreviations / Move revision on top
 
+12 April 2024 Correction of Article 3 and 4
+
 -----
 
 
@@ -41,7 +43,7 @@ The purpose of these rules is to set out the criteria for granting and denying u
 The use of trademarks without agreement to the content of the guidelines is not permitted.
 
 ## Article 4
-For the (i) to (iii) in article 3, the use of a trade mark for non-commercial use is only permitted if the following conditions are met The definition of non-commercial use is found in article 6.
+For article 3, the use of a trade mark for non-commercial use is only permitted if the following conditions are met The definition of non-commercial use is found in article 6.
 
 (i) References to the use of the trade mark are to the respective products which have not been modified.
 
@@ -56,7 +58,7 @@ For the (i) to (iii) in article 3, the use of a trade mark for non-commercial us
 (vi) It is clearly marked as a derivative work or is easily identifiable as such.
 
 ## Article 5
-For (iii) in article 3, when distributing unofficial binaries, only a version with the trademark removed is permitted, unless the NMI approves and accepts liability.
+For article 3, when distributing unofficial binaries, only a version with the trademark removed is permitted, unless the NMI approves and accepts liability.
 
 ## Article 6
 Non-Commercial use is defined as production and sale by individuals or amateur groups. Consideration for distribution of the Work may be received. The maximum amount of consideration is not defined.
