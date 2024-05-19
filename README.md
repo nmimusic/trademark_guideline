@@ -16,6 +16,8 @@
 
 12 April 2024 Correction of Article 3 and 4
 
+17 May 2024 Change "NJB Records" to "Nakamura Music Records"
+
 -----
 
 
@@ -30,7 +32,7 @@ The purpose of these rules is to set out the criteria for granting and denying u
 * 中村音楽工業 (in Japanese)
 * NAKA-MURA JUKEBOX
 * 中村ジュークボックス (in Japanese)
-* NJB Records
+* Nakamura Music Records
 * Ruritania
 * Kamuriki Linux
 * Univalent Versatile Environment
